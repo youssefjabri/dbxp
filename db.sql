@@ -1,0 +1,2 @@
+CREATE DATABASE dbxp;
+USE dbxp;
